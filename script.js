@@ -3,7 +3,7 @@ $(document).ready(function()
 
     var magic8Ball = {};
 
-    magic8Ball.listOfAnswers = ["No", "Yes", "I don't think so...", "Of course!", "Indubitably", "In your dreams.", "Think your self", "I don't know", "Don't disturb now", "Ask me later", "Use common sense"];
+    magic8Ball.listOfAnswers = ["... No", "Hum ... Yes", "I don't think so...", "Of course!", "In your dreams.", "Think your self", "I don't know", "Don't disturb now", "Ask me later", "Use common sense", "Leave me alone"];
 
     $("#answer").hide();
 
